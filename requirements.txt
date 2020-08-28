@@ -1,1 +1,2 @@
 riotwatcher==3.0.0
+jsondiff==1.2.0
